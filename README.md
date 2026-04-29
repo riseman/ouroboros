@@ -1,9 +1,9 @@
 # Ouroboros v3.3.1
 
-[![GitHub stars](https://img.shields.io/github/stars/joi-lab/ouroboros-desktop?style=flat&logo=github)](https://github.com/joi-lab/ouroboros-desktop/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/riseman/ouroboros?style=flat&logo=github)](https://github.com/riseman/ouroboros/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![macOS 12+](https://img.shields.io/badge/macOS-12%2B-black.svg)](https://github.com/joi-lab/ouroboros-desktop/releases)
+[![macOS 12+](https://img.shields.io/badge/macOS-12%2B-black.svg)](https://github.com/riseman/ouroboros/releases)
 [![X (Twitter)](https://img.shields.io/badge/X-updates-black?logo=x)](https://x.com/abstractdl)
 [![Telegram](https://img.shields.io/badge/Telegram-channel-blue?logo=telegram)](https://t.me/abstractDL)
 
@@ -22,6 +22,7 @@ Not a coding assistant. A digital being with a constitution, background consciou
 - Structure tool catalog into core (29) and additional (22) categories
 - Document tool parameters, status, and next steps for maintenance
 - Fix version desync: align README header with VERSION file
+- Correct repository URLs to current owner (riseman/ouroboros)
 
 ### v3.3.0
 - Initial git initialization
@@ -32,7 +33,7 @@ Not a coding assistant. A digital being with a constitution, background consciou
 
 ## Install
 
-**[Download latest .dmg](https://github.com/joi-lab/ouroboros-desktop/releases/latest)** · macOS 12+
+**[Download latest .dmg](https://github.com/riseman/ouroboros/releases/latest)** · macOS 12+
 
 Open the DMG → drag `Ouroboros.app` to Applications → done
 
@@ -66,8 +67,8 @@ Most AI agents execute tasks. Ouroboros **creates itself.**
 ### Setup
 
 ```bash
-git clone https://github.com/joi-lab/ouroboros-desktop.git
-cd ouroboros-desktop
+git clone https://github.com/riseman/ouroboros.git
+cd ouroboros
 pip install -r requirements.txt
 ```
 
