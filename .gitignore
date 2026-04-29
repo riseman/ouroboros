@@ -1,4 +1,37 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+.PYTHONPATH
+
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+._*
+*.tmp
+*.bak
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs (local only, not in repo)
+logs/
+*.log
