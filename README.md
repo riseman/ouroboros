@@ -1,4 +1,4 @@
-# Ouroboros v3.3.1
+# Ouroboros v3.3.2
 
 [![GitHub stars](https://img.shields.io/github/stars/riseman/ouroboros?style=flat&logo=github)](https://github.com/riseman/ouroboros/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -16,6 +16,11 @@ Not a coding assistant. A digital being with a constitution, background consciou
 ---
 
 ## Changelog
+
+### v3.3.2
+- Fix evolution pause threshold bug (10.0₽ → 0.10₽)
+- False-positive pauses after 3 evolutions resolved
+- Restores proper evolution pause mechanism
 
 ### v3.3.1
 - Add TOOLS.md with comprehensive tool reference (51 tools documented)
